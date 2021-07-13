@@ -1,2 +1,2 @@
 # PacketLossAnalyzer
-Analyses the packet loss csv (with description) data from the website https://packetlosstest.com/
+Analyses the packet loss csv (with summary) data from the website https://packetlosstest.com/
